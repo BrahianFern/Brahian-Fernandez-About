@@ -3,11 +3,11 @@
 ** A passionate developer from Rhode Island
 
 * 🔭 I’m currently working on github ( learning from skillup online )
-* 🌱 I’m currently learning ...
-* 👯 I’m looking to collaborate on ...
-* 💬 Ask me about ...
+* 🌱 I’m currently learning resume building and optimization
+* 👯 I’m looking to collaborate with data scientists to improve my skillset.
+* 💬 Ask me about Power BI Dashboards
 * 📫 How to reach me: [brahianfern19@gmail.com](mailto:brahianfern19@gmail.com)
-* ⚡ Fun fact: ...
+* ⚡ Fun fact: I love going to the gym
 
 ---
 
@@ -15,9 +15,9 @@
 
 Here are a few technologies I've been working with recently:
 
-* **Frontend:** Java, Python, HTML
-* **Backend:** Node.js, Express, Python
-* **Database:** MongoDB, SQL
+* **Frontend:** 
+* **Backend:** Java, Python
+* **Database:** SQL
 * **Tools:** Git, Docker, VS Code
 
 ---
