@@ -24,4 +24,4 @@ Here are a few technologies I've been working with recently:
 
 ### 🔗 Connect with me:
 
-[![linkedin](=white)]()
+[![linkedin](www.linkedin.com/in/brahian-fernandez=white)](www.linkedin.com/in/brahian-fernandez)
